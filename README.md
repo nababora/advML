@@ -1,3 +1,7 @@
+Adversarial Machine Learning for Anti-Malware Software
+presented in Secuinside 2017  @nababora
+
+
 제가 발표한 내용은 Adversarial Machine Learning 이라는 주제로,
 말 그대로 머신러닝 모델을 공격하는 방법과 사례를 소개 했습니다.
 사실 원래 목적은 머신러닝 기반 모델도 설계 단계부터 adversary를 고려해야 한다는 것을 증명하는 것이었습니다.
